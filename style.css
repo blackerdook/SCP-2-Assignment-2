@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     overflow: hidden;
-    background: url('/images/background.jpg') no-repeat center center fixed; /* Atmospheric background */
+    background: url('images/background.jpg') no-repeat center center fixed; /* Atmospheric background */
     background-size: cover;
 }
 
@@ -97,7 +97,7 @@ p {
     width: 100%;
     height: 100%;
     pointer-events: none;
-    background: url('/images/RAIN\ \ \ _\ \ GIF.gif') repeat; /* Rain effect overlay */
+    background: url('images/RAIN\ \ \ _\ \ GIF.gif') repeat; /* Rain effect overlay */
     opacity: 0.3;
 }
 
