@@ -1,0 +1,37 @@
+[
+    {
+        "item": "SCP-002",
+        "class": "Euclid",
+        "containment": "SCP-002 must stay connected to a power supply to remain in recharging mode.\nDuring power outages, the area is evacuated and sealed until power is restored,\nfollowed by X-ray and UV light bursts before reconnecting SCP-002.\nThe containment area must have negative air pressure, and teams of two must stay\nwithin 20 meters, maintaining physical contact to prevent perceptual distortions.\nOnly Level 3 personnel or higher can access SCP-002 unless authorized by two Level 4 administrators.\nAuthorized staff are escorted by security, lose clearance temporarily, and must undergo\nquarantine and evaluation before returning to duty.",
+        "description": "SCP-002 resembles a tumorous growth about 60 m³ in size,\nwith an iron valve hatch leading to its interior,\nwhich resembles a modest low-rent apartment.\nOne wall has a window not visible from the outside.\nThe furniture inside appears to be made of biological materials like bone and hair,\neach showing unique or fragmented human DNA sequences.",
+        "image": "images/SCP-002.jpg"
+    },
+    {
+        "item": "SCP-003",
+        "class": "Euclid",
+        "containment": "SCP-3 must be kept at temperatures above 35°C, ideally above 100°C.\nNo living organisms of Category IV or higher complexity may contact SCP-3.\nIn case of power failure, personnel must maintain skin contact with SCP-3-1\nto keep it above critical temperature until it advances to the second growth stage.\nPersonnel must be checked for parasites and sterilized after contact with SCP-3-1.\nSCP-3-1 must remain in SCP-3-2, with any changes in rune activity reported within three hours.\nSCP-3-2 must be powered by Generator 3-IX at all times.",
+        "description": "SCP-3 consists of SCP-3-1, a chitinous, biological component resembling an ancient motherboard,\nand SCP-3-2, a rune-covered stone tablet.\nSCP-3-1 is sentient and grows in two stages when SCP-3 drops below 35°C.\nIn the first stage, it grows into a form similar to a brittle star, converting surrounding matter.\nIn the second stage, it interacts with living organisms, altering its growth rate and mimicking materials.\nSCP-3-2 controls SCP-3-1 with internal radiation and an anomalous power source, likely designed to contain SCP-3-1.\nSCP-3-1's biology shows similarities to other SCP objects but remains largely unexplained.",
+        "image": "images/SCP-003.webp"
+    },
+    {
+        "item": "SCP-004",
+        "class": "Euclid",
+        "containment": "When handling SCP-004-2 through SCP-004-13, proper procedure is vital.\nThe items cannot be moved off-site without two Level 4 security personnel.\nNo other component of SCP-004 should be taken through SCP-004-1.\nIf SCP-004-1 is breached or the facility is compromised,\nthe keys must be brought inside and the door closed before activating Site 62’s warhead.\nUnauthorized removal of keys is grounds for immediate termination.\nLevel 1 clearance is required for basic access to SCP-004-1; Level 4 clearance is required for use of SCP-004-2 to -13.",
+        "description": "SCP-004 consists of an old wooden barn door (SCP-004-1)\nand a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13).\nThe door is the entrance to an abandoned factory in [DATA EXPUNGED].",
+        "image": "images/SCP-004.webp"
+    },
+    {
+        "item": "SCP-005",
+        "class": "Euclid",
+        "containment": "SCP-005 poses no immediate risk in any direct sense.\nEven so, its unique functions require special measures be taken to restrict access and manipulation of the object.\nApproval of at least one (1) Level 4 personnel is required for the removal of the object from its containment area.",
+        "description": "SCP-005 resembles an ornate key from the 1920s.\nIt was discovered when a civilian used it to infiltrate a high-security facility.\nSCP-005 can open any lock, mechanical or digital, with ease.\nThe origin of this ability is undetermined.",
+        "image": "images/SCP-005.jpg"
+    },
+    {
+        "item": "SCP-006",
+        "class": "Euclid",
+        "containment": "Personnel interacting with SCP-006 must wear modified Class VI BNC suits.\nBefore procedures, personnel must be briefed with Material SCP-006B or SCP-006C.\nSCP-006A Briefing is restricted to O5 clearance only.\nTo ensure proper suit usage, personnel must be submerged in water; bubbles indicate leaks.\nProcedures with SCP-006 are under extreme surveillance.\nIn case of contact with SCP-006, the commander will announce Procedure 006-Xi-12, which means evacuation.\nLiquid from SCP-006 must be approved by three O5 personnel, transferred in a Quad-Sealant Container under armed guard.\nPersonnel contacting SCP-006 or its liquid are to be confined and incinerated after studies.",
+        "description": "SCP-006 is a small spring located 60 km west of Astrakhan.\nThe Foundation was aware of it since the 19th century but secured it in 1991.\nA chemical factory disguises the location, with laborers under Foundation or Russian control.\nThe liquid from SCP-006, initially identified as mineral water, has 'health' properties.\nIngesting it grants enhanced DNA repair, cellular duplication, tissue repair, and immune system effectiveness.\nIt destroys hostile bacteria and viruses in tested subjects, with varied effects on different species.",
+        "image": "images/SCP-006.webp"
+    }
+]
